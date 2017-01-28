@@ -1,3 +1,3 @@
 # Java8
 
-asdf
+Java8 OCJP coding practice 
